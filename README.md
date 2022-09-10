@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @av-ankit
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning ... ReactJS
-- 💞️ I’m looking to collaborate on ... React
+- 🌱 I’m currently learning ... NodeJS
+- 💞️ I’m looking to collaborate on ... ReactJS
 - 📫 How to reach me ...- av.ankitverma@yahoo.com
 
 <!---
